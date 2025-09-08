@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Mute Allay taking damage",
+    "pack_format": 81,
+    "supported_formats": [10, 81]
+  }
+}
